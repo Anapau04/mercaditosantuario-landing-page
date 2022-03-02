@@ -9,3 +9,23 @@ body {
 .navigation-bash {
     background-color: chartreuse;
 }
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.colum-width-50 {
+    width: 50%;
+}
+
+.items-nav-ul {
+    display: flex; 
+    justify-content: flex-end;
+}
+
+ul li {
+    margin-left: 30px;
+    width: 50%;
+
+}
