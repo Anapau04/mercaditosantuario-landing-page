@@ -1,5 +1,5 @@
 nav {
-    background-color: blue;
+    background-color: #FFFFFF;
 }
 
 body {
@@ -7,7 +7,7 @@ body {
 }
 
 .navigation-bash {
-    background-color: chartreuse;
+    background-color: #FFFFFF;
 }
 
 .parent {
@@ -19,13 +19,43 @@ body {
     width: 50%;
 }
 
+.alignment-text {
+    text-align: center;
+}
+
 .items-nav-ul {
-    display: flex; 
+    display: flex;
     justify-content: flex-end;
+    list-style: none;
 }
 
 ul li {
     margin-left: 30px;
     width: 50%;
+}
 
+.font-mulish-tittle {
+    font-family: 'Mulish', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    color: #DB968F;
+}
+
+.font-mulish-normal-text {
+    font-family: 'Mulish', sans-serif;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-inicio {
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.button-verde-style {
+    background-color: #B6DAC9;
 }
