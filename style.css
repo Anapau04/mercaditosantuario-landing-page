@@ -29,6 +29,10 @@ body {
     list-style: none;
 }
 
+.list-sin-icono {
+    list-style: none;
+}
+
 ul li {
     margin-left: 30px;
     width: 50%;
@@ -58,4 +62,8 @@ ul li {
 
 .button-verde-style {
     background-color: #B6DAC9;
-}
+     border-radius: 20px;
+ }
+ 
+
+
