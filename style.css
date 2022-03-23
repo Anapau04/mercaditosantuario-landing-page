@@ -64,6 +64,12 @@ ul li {
     background-color: #B6DAC9;
      border-radius: 20px;
  }
- 
+
+ .section-ilustrativo {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+ }
+
 
 
