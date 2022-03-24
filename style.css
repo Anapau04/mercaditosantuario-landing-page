@@ -62,14 +62,14 @@ ul li {
 
 .button-verde-style {
     background-color: #B6DAC9;
-     border-radius: 20px;
+    border-radius: 20px;
  }
 
  .section-ilustrativo {
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
-    height: 500px;
+    height: 550px;
  }
 
 .img-width-section-ilustrativo {
