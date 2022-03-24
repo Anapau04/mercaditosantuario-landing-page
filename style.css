@@ -69,12 +69,18 @@ ul li {
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
+    height: 500px;
  }
 
 .img-width-section-ilustrativo {
-    width: 30%;
-    
+    max-width: 90%;
+    max-height: 90%;
+}
 
+.img-div-section-ilustrativo {
+    height: 200px;
+    display: flex;
+    justify-content: center;
 }
 
 
