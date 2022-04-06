@@ -3,7 +3,7 @@ nav {
 }
 
 body {
-    background-color: blueviolet;
+    background-color: #FFFFFF;
 }
 
 .navigation-bash {
@@ -69,14 +69,24 @@ ul li {
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
+    height: 500px;
  }
 
 .img-width-section-ilustrativo {
-    width: 30%;
-    
-
+    max-width: 90px;
+    max-height: 90px;
 }
 
+.img-width-section-ilustrativo-nuevo{
+    display: flex;
+    justify-content:center;
+    float: center;
+    margin: 50px;
+}
+
+.margin-page {
+    margin: 50px;
+}
 
 
 
