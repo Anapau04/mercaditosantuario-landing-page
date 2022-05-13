@@ -80,6 +80,7 @@ ul li {
 .img-expositores {
     max-width: 200px;
     max-height: 200px;
+    margin-right: 50px;
 }
 
 .img-width-section-ilustrativo-nuevo{
@@ -98,5 +99,28 @@ ul li {
 }
 
 
+.margin-top-para-alinear-con-logo {
+    margin-top: 50px;
+}
+
+.align-center-button {
+    display: flex;
+    justify-content:center;
+    float: center;
+}
+
+.font-mulish-normal-text-ul {
+    font-family: 'Mulish', sans-serif;
+    font-size: 21px;
+    display: flex;
+}
+
+.colum-width-30 {
+    width: 30%;
+}
+
+.colum-width-20 {
+    width: 20%;
+}
 
 
